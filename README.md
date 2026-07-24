@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Anjali0424/LEETCODE26/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Anjali0424/LEETCODE26/tree/master/0258-add-digits) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Anjali0424/LEETCODE26/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Anjali0424/LEETCODE26/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Anjali0424/LEETCODE26/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
