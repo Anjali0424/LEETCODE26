@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anjali0424/LEETCODE26/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Anjali0424/LEETCODE26/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Anjali0424/LEETCODE26/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Anjali0424/LEETCODE26/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
