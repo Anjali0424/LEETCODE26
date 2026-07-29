@@ -4,10 +4,7 @@ class Solution {
         int j = 0;
 
         while(i < s.length() && j < t.length()) {
-            char ch1 = s.charAt(i);
-            char ch2 = t.charAt(j);
-
-            if(ch1 == ch2) {
+            if(s.charAt(i) == t.charAt(j)) {
                 i++;
                 j++;
             }
