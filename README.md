@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Anjali0424/LEETCODE26/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Anjali0424/LEETCODE26/tree/master/0392-is-subsequence) |
 ## Counting
 |  |
 | ------- |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/Anjali0424/LEETCODE26/tree/master/0577-employee-bonus) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Anjali0424/LEETCODE26/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Anjali0424/LEETCODE26/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
