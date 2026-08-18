@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Anjali0424/LEETCODE26/tree/master/0007-reverse-integer) |
+| [0172-factorial-trailing-zeroes](https://github.com/Anjali0424/LEETCODE26/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Anjali0424/LEETCODE26/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Anjali0424/LEETCODE26/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
