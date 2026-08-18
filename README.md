@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Anjali0424/LEETCODE26/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anjali0424/LEETCODE26/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Anjali0424/LEETCODE26/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anjali0424/LEETCODE26/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Anjali0424/LEETCODE26/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Anjali0424/LEETCODE26/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Anjali0424/LEETCODE26/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Anjali0424/LEETCODE26/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Anjali0424/LEETCODE26/tree/master/0412-fizz-buzz) |
 ## Counting
 |  |
 | ------- |
