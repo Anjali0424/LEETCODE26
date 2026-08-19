@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Anjali0424/LEETCODE26/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Anjali0424/LEETCODE26/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Anjali0424/LEETCODE26/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Anjali0424/LEETCODE26/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Anjali0424/LEETCODE26/tree/master/0231-power-of-two) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Anjali0424/LEETCODE26/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Anjali0424/LEETCODE26/tree/master/1492-the-kth-factor-of-n) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Anjali0424/LEETCODE26/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
