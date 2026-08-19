@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Anjali0424/LEETCODE26/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Anjali0424/LEETCODE26/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anjali0424/LEETCODE26/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/Anjali0424/LEETCODE26/tree/master/1492-the-kth-factor-of-n) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Anjali0424/LEETCODE26/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Anjali0424/LEETCODE26/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/Anjali0424/LEETCODE26/tree/master/1492-the-kth-factor-of-n) |
 ## Array
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Anjali0424/LEETCODE26/tree/master/0204-count-primes) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Anjali0424/LEETCODE26/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
