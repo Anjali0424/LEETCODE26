@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Anjali0424/LEETCODE26/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Anjali0424/LEETCODE26/tree/master/0643-maximum-average-subarray-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/Anjali0424/LEETCODE26/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
