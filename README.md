@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Anjali0424/LEETCODE26/tree/master/0643-maximum-average-subarray-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anjali0424/LEETCODE26/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjali0424/LEETCODE26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjali0424/LEETCODE26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Anjali0424/LEETCODE26/tree/master/0643-maximum-average-subarray-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjali0424/LEETCODE26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
