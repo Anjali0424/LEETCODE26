@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Anjali0424/LEETCODE26/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Anjali0424/LEETCODE26/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Anjali0424/LEETCODE26/tree/master/0643-maximum-average-subarray-i) |
 | [0941-valid-mountain-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0977-squares-of-a-sorted-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Anjali0424/LEETCODE26/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Anjali0424/LEETCODE26/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Anjali0424/LEETCODE26/tree/master/1089-duplicate-zeros) |
