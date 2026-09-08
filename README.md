@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anjali0424/LEETCODE26/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Anjali0424/LEETCODE26/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Anjali0424/LEETCODE26/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Anjali0424/LEETCODE26/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anjali0424/LEETCODE26/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0941-valid-mountain-array) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjali0424/LEETCODE26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Anjali0424/LEETCODE26/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
