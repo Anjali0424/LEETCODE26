@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Anjali0424/LEETCODE26/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Anjali0424/LEETCODE26/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Anjali0424/LEETCODE26/tree/master/0238-product-of-array-except-self) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anjali0424/LEETCODE26/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Anjali0424/LEETCODE26/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anjali0424/LEETCODE26/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Anjali0424/LEETCODE26/tree/master/0724-find-pivot-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Anjali0424/LEETCODE26/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
