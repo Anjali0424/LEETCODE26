@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Anjali0424/LEETCODE26/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Anjali0424/LEETCODE26/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Anjali0424/LEETCODE26/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Anjali0424/LEETCODE26/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anjali0424/LEETCODE26/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Anjali0424/LEETCODE26/tree/master/0383-ransom-note) |
 ## String
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anjali0424/LEETCODE26/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Anjali0424/LEETCODE26/tree/master/0383-ransom-note) |
 ## Database
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Anjali0424/LEETCODE26/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Anjali0424/LEETCODE26/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anjali0424/LEETCODE26/tree/master/0922-sort-array-by-parity-ii) |
@@ -148,4 +152,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anjali0424/LEETCODE26/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Anjali0424/LEETCODE26/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anjali0424/LEETCODE26/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
