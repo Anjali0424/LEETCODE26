@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Anjali0424/LEETCODE26/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/Anjali0424/LEETCODE26/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anjali0424/LEETCODE26/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Anjali0424/LEETCODE26/tree/master/0643-maximum-average-subarray-i) |
@@ -139,5 +140,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Anjali0424/LEETCODE26/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Anjali0424/LEETCODE26/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
