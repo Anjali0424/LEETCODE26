@@ -167,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anjali0424/LEETCODE26/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Anjali0424/LEETCODE26/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Anjali0424/LEETCODE26/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
