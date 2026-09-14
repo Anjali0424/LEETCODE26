@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anjali0424/LEETCODE26/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anjali0424/LEETCODE26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Anjali0424/LEETCODE26/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/Anjali0424/LEETCODE26/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Anjali0424/LEETCODE26/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anjali0424/LEETCODE26/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0977-squares-of-a-sorted-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Anjali0424/LEETCODE26/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Anjali0424/LEETCODE26/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
