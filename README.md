@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Anjali0424/LEETCODE26/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Anjali0424/LEETCODE26/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anjali0424/LEETCODE26/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anjali0424/LEETCODE26/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/Anjali0424/LEETCODE26/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anjali0424/LEETCODE26/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Anjali0424/LEETCODE26/tree/master/0941-valid-mountain-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anjali0424/LEETCODE26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anjali0424/LEETCODE26/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Anjali0424/LEETCODE26/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anjali0424/LEETCODE26/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
