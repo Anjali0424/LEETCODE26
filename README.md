@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Anjali0424/LEETCODE26/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anjali0424/LEETCODE26/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Anjali0424/LEETCODE26/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Anjali0424/LEETCODE26/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anjali0424/LEETCODE26/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Anjali0424/LEETCODE26/tree/master/1492-the-kth-factor-of-n) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali0424/LEETCODE26/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anjali0424/LEETCODE26/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Anjali0424/LEETCODE26/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anjali0424/LEETCODE26/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Anjali0424/LEETCODE26/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anjali0424/LEETCODE26/tree/master/0744-find-smallest-letter-greater-than-target) |
