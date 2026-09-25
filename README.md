@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anjali0424/LEETCODE26/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Anjali0424/LEETCODE26/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Anjali0424/LEETCODE26/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Anjali0424/LEETCODE26/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali0424/LEETCODE26/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anjali0424/LEETCODE26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Anjali0424/LEETCODE26/tree/master/0367-valid-perfect-square) |
@@ -200,5 +201,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Anjali0424/LEETCODE26/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anjali0424/LEETCODE26/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
